@@ -1,0 +1,22 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "crypto": "^1.0.1",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.17.1",
+    "randomstring": "^1.1.5"
+  }
+}

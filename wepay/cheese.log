@@ -1,0 +1,38 @@
+[2020-01-16T20:26:07.318] [DEBUG] cheese - appid=wx100749d4612ea385&body=一听可乐&mch_id=1448624302&nonce_str=0MWSQQSK2VLN1X11IRP5VA5VUZV6PXHL&notify_url=http://www.zhuangxiaolin.xyz/api/notify&out_trade_no=00004&spbill_create_ip=127.0.0.1&total_fee=1&trade_type=NATIVE&key=T8NHKqOfKWtqZPnQm8K77PtQtaRXluU8
+[2020-01-16T20:28:42.334] [DEBUG] cheese - appid=wx100749d4612ea385&body=一听可乐&mch_id=1448624302&nonce_str=QNMTHIHT0FRUKKDIOH1EMO9BRJLZZ79E&notify_url=https://www.zhuangxiaolin.xyz/api/notify&out_trade_no=00005&spbill_create_ip=127.0.0.1&total_fee=1&trade_type=NATIVE&key=T8NHKqOfKWtqZPnQm8K77PtQtaRXluU8
+[2020-01-16T20:29:03.346] [DEBUG] cheese - <xml><appid><![CDATA[wx100749d4612ea385]]></appid>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1448624302]]></mch_id>
+<nonce_str><![CDATA[QNMTHIHT0FRUKKDIOH1EMO9BRJLZZ79E]]></nonce_str>
+<openid><![CDATA[odxZ30i4TWyLBEWM5aIZOQNt09Vs]]></openid>
+<out_trade_no><![CDATA[00005]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[1C4A6CD9313F7B735ABC80C798994ADA]]></sign>
+<time_end><![CDATA[20200116202901]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[4200000478202001166046651927]]></transaction_id>
+</xml>
+[2020-01-16T20:29:03.348] [DEBUG] cheese - { appid: 'wx100749d4612ea385',
+  bank_type: 'OTHERS',
+  cash_fee: '1',
+  fee_type: 'CNY',
+  is_subscribe: 'N',
+  mch_id: '1448624302',
+  nonce_str: 'QNMTHIHT0FRUKKDIOH1EMO9BRJLZZ79E',
+  openid: 'odxZ30i4TWyLBEWM5aIZOQNt09Vs',
+  out_trade_no: '00005',
+  result_code: 'SUCCESS',
+  return_code: 'SUCCESS',
+  sign: '1C4A6CD9313F7B735ABC80C798994ADA',
+  time_end: '20200116202901',
+  total_fee: '1',
+  trade_type: 'NATIVE',
+  transaction_id: '4200000478202001166046651927' }
+[2020-01-16T20:29:03.349] [DEBUG] cheese - appid=wx100749d4612ea385&bank_type=OTHERS&cash_fee=1&fee_type=CNY&is_subscribe=N&mch_id=1448624302&nonce_str=QNMTHIHT0FRUKKDIOH1EMO9BRJLZZ79E&openid=odxZ30i4TWyLBEWM5aIZOQNt09Vs&out_trade_no=00005&result_code=SUCCESS&return_code=SUCCESS&time_end=20200116202901&total_fee=1&trade_type=NATIVE&transaction_id=4200000478202001166046651927&key=T8NHKqOfKWtqZPnQm8K77PtQtaRXluU8
+[2020-01-16T20:29:03.349] [DEBUG] cheese - orignSign 1C4A6CD9313F7B735ABC80C798994ADA
+[2020-01-16T20:29:03.349] [DEBUG] cheese - mysign: 1C4A6CD9313F7B735ABC80C798994ADA
